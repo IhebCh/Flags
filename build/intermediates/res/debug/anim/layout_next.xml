@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layoutAnimation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:delay="10%"
+    android:animationOrder="random"
+    android:animation="@anim/push_left_in"
+    /><!-- From: file:/C:/Users/Oo/AndroidStudioProjects/Tha9afti/app/src/main/res/anim/layout_next.xml --><!-- From: file:/D:/Android/Flags/res/anim/layout_next.xml -->

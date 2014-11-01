@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="D:\Android\Flags\assets" >
+            <file
+                name="fonts/agencyr.ttf"
+                path="D:\Android\Flags\assets\fonts\agencyr.ttf" />
+            <file
+                name="fonts/itckrist.ttf"
+                path="D:\Android\Flags\assets\fonts\itckrist.ttf" />
+            <file
+                name="fonts/jokerman.ttf"
+                path="D:\Android\Flags\assets\fonts\jokerman.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\Android\Flags\build-types\debug\assets" />
+    </dataSet>
+
+</merger>
